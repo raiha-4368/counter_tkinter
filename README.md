@@ -29,19 +29,20 @@ python main.py
 ## フォルダ構成
 <details>
 <summary>フォルダ構成(折り畳み)  </summary>
-counter_tkinter/    
+
+counter_tkinter/  
 ├─build(build及びdistはexeファイル作成時に自動生成)  
 ├─dist  
 │  └─main.exe  
 ├─docs  
-│  └─01_count.png (実行時のスクリーンショット各種)    
-├─logs(main_log.pyを実行した場合のみ、logを出力する)  
+│  └─01_count.png (実行時のスクリーンショット各種)  
+├─logs(main_log.pyを実行した場合のみ、logを出力する)    
 │  └─app.log  
 ├ main.py  
 ├ main_log.py(logファイルを出力するようにしているversion)  
-└ icon_01.ico
-└ icon用.png
-└ README.md    
+└ icon_01.ico  
+└ icon用.png  
+└ README.md  
 └ .gitignore    
 </details>
 
