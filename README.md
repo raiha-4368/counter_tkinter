@@ -63,7 +63,7 @@ pip install pyinstaller
 
 exe化の方法  
 1.以下コマンドを実行  
-pyinstaller main.py --onefile  
+pyinstaller main.py --onefile  --noconsole --icon=icon_01.ico
 
 使用しそうなオプション  
 --onefileは1つのファイルにまとめる  
