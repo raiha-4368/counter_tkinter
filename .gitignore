@@ -8,5 +8,9 @@ __pycache__/
 logs/
 *.log
 
+# build(exeファイル以外はgit管理に含めない)
+build/
+main.spec
+
 # OS
 .DS_Store
